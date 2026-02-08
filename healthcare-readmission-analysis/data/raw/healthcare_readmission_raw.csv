@@ -1,0 +1,11 @@
+patient_id,age,gender,diagnosis,length_of_stay,systolic_bp,cholesterol,previous_admissions,readmitted,admission_date
+P001,67,M,Heart Failure,9,150,240,2,Yes,2024-01-10
+P002,45,female,Diabetes,4,130,210,0,No,2024-01-12
+P003,72,MALE,Hypertension,7,165,260,3,Yes,2024-01-15
+P004,29,F,Asthma,2,118,180,0,No,2024-01-18
+P005,55,male,Diabetes,5,,220,1,Yes,2024-01-20
+P006,61,FEMALE,Heart Failure,11,170,280,4,Yes,2024-01-22
+P007,38,M,Hypertension,3,142,200,1,No,2024-01-25
+P008,80,f,Heart Failure,14,180,300,5,Yes,2024-01-28
+P009,50,MALE,Asthma,4,125,,0,No,2024-02-01
+P010,69,Female,Diabetes,8,160,255,2,Yes,2024-02-05
